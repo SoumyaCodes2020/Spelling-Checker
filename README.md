@@ -1,2 +1,2 @@
 # Spelling-Checker
-Download This Folder To Get a Spelling Checker!
+Download The ZIP file To Get a Spelling Checker!
