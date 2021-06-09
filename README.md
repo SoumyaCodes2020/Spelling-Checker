@@ -16,7 +16,8 @@ They are:
 **Endless**: This Gamemode is divided into 2 sub-gamemodes. **All** or **Custom**. **All** is 20-Right, except you can't lose and, well its endless and **Custom** is Just Spelling bee but endless.
 
 
-#Download-Instructions
+#Download-Instructions#
+
 **1.** Make sure you have Python 3 installed. You can find the download link here: https://www.python.org/downloads/
 
 2. Download the ZIP file found in the main branch.
@@ -35,4 +36,4 @@ They are:
 **If you are having any issues, make sure that there are no spaces in the path where Main.py is stored**
 
 
-#Thanks for downloading!
+#Thanks for downloading!#
